@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A passionate full-stack dev from Myanmar</h3>
+<h3 align="center">A full-stack dev from Myanmar</h3>
 
 - 🔭 I’m currently working on [Imaginashin(ai chatbot/imagen)](https://wanacreates.xyz)
 
