@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://wanacreates.xyz](https://wanacreates.xyz)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ye-wana-36711416b](https://www.linkedin.com/in/ye-wana-36711416b)
+- 📝 I usually write articles on [https://www.linkedin.com/in/ye-wana-36711416b](https://www.linkedin.com/in/ye-wana-36711416b)
 
 - 💬 Ask me about **Python, APIs, basic ML**
 
-- 📫 How to reach me **yewana.au@gmail.com**
+- 📫 How to reach me **wanacreates@gmail.com**
 
 - ⚡ Fun fact **My first programming language was c++ 🤌**
 
