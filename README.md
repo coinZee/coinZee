@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A full-stack dev from Myanmar</h3>
 
-- 🔭 I’m currently working on [Imaginashin(ai chatbot/imagen)](https://wanacreates.xyz) (way too responsive)
-
 - 🌱 I’m currently learning **Mojo from modular, pytorch, tensor flow, etc**
 
 - 👨‍💻 All of my projects are available at [https://wanacreates.xyz](https://wanacreates.xyz)
